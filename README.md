@@ -1,13 +1,13 @@
-                                                       Exploratory Analysis of RainFall Data in India for Agriculture
+                                                 Exploratory Analysis of RainFall Data in India for Agriculture
                                                        
-                                                                    TEAM ID : PNT2022TMID16670
+                                                              TEAM ID : PNT2022TMID16670
                                                                     
                                                                     
  TEAM MEMBERS:
  
- BRINDHA M (TL)
- DIVYA DARSHINI V
- JEEVITHA M
+ BRINDHA M (TL),
+ DIVYA DARSHINI V,
+ JEEVITHA M,
  PACKIYA PRATHEEBA S
  
  Category: Machine Learning
